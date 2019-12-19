@@ -1,0 +1,534 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Properties>
+  <skin>
+    <searchButtonVisible value="true" />
+    <link>
+      <url value="http://flippingbook.com?src=1" />
+    </link>
+    <backgroundLogoPath value="skins/current/images/logo.png" />
+  </skin>
+  <sound>
+    <effects>
+      <softFlipEffects>
+        <element>
+          <url value="sound/flip2.mp3" />
+          <volume value="100" />
+        </element>
+        <element>
+          <url value="sound/flip3.mp3" />
+          <volume value="100" />
+        </element>
+        <element>
+          <url value="sound/flip4.mp3" />
+          <volume value="100" />
+        </element>
+      </softFlipEffects>
+      <hardCoverStart>
+        <url value="sound/blow.mp3" />
+        <volume value="100" />
+      </hardCoverStart>
+      <volume value="25" />
+    </effects>
+    <background>
+      <order value="1" />
+      <music>
+        <SoundCollectionProperty>
+          <url value="" />
+        </SoundCollectionProperty>
+      </music>
+    </background>
+  </sound>
+  <bookProperties>
+    <zoomedPageTransition value="1" />
+    <cover>
+      <coverSize>
+        <width>
+          <pixelValue value="12" />
+        </width>
+        <height>
+          <pixelValue value="12" />
+        </height>
+      </coverSize>
+      <coverBorderColor value="#000000" />
+    </cover>
+    <pages>
+      <defaultValue>
+        <zoomFormat value="swf" />
+        <contentWidth value="522.62" />
+        <width value="595" />
+        <height value="841" />
+        <contentScale value="0.74375" />
+        <format value="swf" />
+        <thumbFormat value="jpg" />
+        <substrateFormat value="jpg" />
+        <substrateZoomFormat value="jpg" />
+      </defaultValue>
+      <elements>
+        <page>
+          <contentWidth value="550.7" />
+          <pdfFileSize value="682526" />
+          <id value="1" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="0" />
+          <pdfFileSize value="5140" />
+          <id value="2" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="380.22" />
+          <pdfFileSize value="267590" />
+          <id value="3" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="511.08" />
+          <pdfFileSize value="517295" />
+          <id value="4" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="480.62" />
+          <pdfFileSize value="430592" />
+          <id value="5" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <pdfFileSize value="414286" />
+          <id value="6" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="430.78" />
+          <pdfFileSize value="294732" />
+          <id value="7" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="424.94" />
+          <pdfFileSize value="379854" />
+          <id value="8" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="425.08" />
+          <pdfFileSize value="361270" />
+          <id value="9" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <pdfFileSize value="365240" />
+          <id value="10" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="368.24" />
+          <pdfFileSize value="376194" />
+          <id value="11" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="487.28" />
+          <pdfFileSize value="393070" />
+          <id value="12" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="430.74" />
+          <pdfFileSize value="388156" />
+          <id value="13" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <pdfFileSize value="366735" />
+          <id value="14" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="465.24" />
+          <pdfFileSize value="465879" />
+          <id value="15" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="481.62" />
+          <pdfFileSize value="1717119" />
+          <id value="16" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="430.7" />
+          <pdfFileSize value="1793760" />
+          <id value="17" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="424.94" />
+          <pdfFileSize value="394566" />
+          <id value="18" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="453.98" />
+          <pdfFileSize value="338519" />
+          <id value="19" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <pdfFileSize value="381434" />
+          <id value="20" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="446.4" />
+          <pdfFileSize value="381647" />
+          <id value="21" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="481.62" />
+          <pdfFileSize value="387663" />
+          <id value="22" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="424.94" />
+          <pdfFileSize value="337867" />
+          <id value="23" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="430.68" />
+          <pdfFileSize value="454805" />
+          <id value="24" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="374" />
+          <pdfFileSize value="452907" />
+          <id value="25" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="482.12" />
+          <pdfFileSize value="600212" />
+          <id value="26" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="477.5" />
+          <pdfFileSize value="2676601" />
+          <id value="27" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <pdfFileSize value="341642" />
+          <id value="28" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="425.52" />
+          <pdfFileSize value="314815" />
+          <id value="29" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="368.24" />
+          <pdfFileSize value="339980" />
+          <id value="30" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="443.2" />
+          <pdfFileSize value="437089" />
+          <id value="31" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="425.38" />
+          <pdfFileSize value="371019" />
+          <id value="32" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="373.92" />
+          <pdfFileSize value="430175" />
+          <id value="33" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="444.88" />
+          <pdfFileSize value="277831" />
+          <id value="34" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="430.72" />
+          <pdfFileSize value="310561" />
+          <id value="35" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="539.64" />
+          <pdfFileSize value="423517" />
+          <id value="36" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="430.64" />
+          <pdfFileSize value="369844" />
+          <id value="37" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="423.04" />
+          <pdfFileSize value="405586" />
+          <id value="38" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="0" />
+          <pdfFileSize value="449536" />
+          <id value="39" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="424.94" />
+          <links>
+            <contentProperty>
+              <width value="66.41" />
+              <urls>
+                <url value="tel:+886-6-2982810" />
+              </urls>
+              <y value="191.29" />
+              <z value="11" />
+              <x value="115.03" />
+              <height value="12.12" />
+            </contentProperty>
+            <contentProperty>
+              <width value="66.41" />
+              <urls>
+                <url value="tel:+886-6-2982835" />
+              </urls>
+              <y value="208.96" />
+              <z value="11" />
+              <x value="115.03" />
+              <height value="12.12" />
+            </contentProperty>
+            <contentProperty>
+              <width value="97.5" />
+              <urls>
+                <url value="http://economic.tainan.gov.tw/" />
+              </urls>
+              <y value="226.63" />
+              <z value="11" />
+              <x value="115.03" />
+              <height value="12.12" />
+            </contentProperty>
+            <contentProperty>
+              <width value="136.4" />
+              <urls>
+                <url value="mailto:investtainan@mail.tainan.gov.tw" />
+              </urls>
+              <y value="244.3" />
+              <z value="11" />
+              <x value="135.03" />
+              <height value="12.12" />
+            </contentProperty>
+          </links>
+          <pdfFileSize value="318268" />
+          <id value="40" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="402.26" />
+          <links>
+            <contentProperty>
+              <width value="80.7" />
+              <urls>
+                <url value="mailto:recruit@moea.gov.tw" />
+              </urls>
+              <y value="189.62" />
+              <z value="11" />
+              <x value="261.07" />
+              <height value="10.91" />
+            </contentProperty>
+            <contentProperty>
+              <width value="88.91" />
+              <urls>
+                <url value="http://investtaiwan.nat.gov.tw/" />
+              </urls>
+              <y value="206.09" />
+              <z value="11" />
+              <x value="252.82" />
+              <height value="10.91" />
+            </contentProperty>
+            <contentProperty>
+              <width value="71" />
+              <urls>
+                <url value="mailto:dois@moea.gov.tw" />
+              </urls>
+              <y value="308.78" />
+              <z value="11" />
+              <x value="258.82" />
+              <height value="10.91" />
+            </contentProperty>
+            <contentProperty>
+              <width value="86.41" />
+              <urls>
+                <url value="http://www.dois.moea.gov.tw/" />
+              </urls>
+              <y value="341.72" />
+              <z value="11" />
+              <x value="252.82" />
+              <height value="10.91" />
+            </contentProperty>
+            <contentProperty>
+              <width value="82.7" />
+              <urls>
+                <url value="mailto:serve@moeaic.gov.tw" />
+              </urls>
+              <y value="406.34" />
+              <z value="11" />
+              <x value="258.82" />
+              <height value="10.91" />
+            </contentProperty>
+            <contentProperty>
+              <width value="74.91" />
+              <urls>
+                <url value="http://www.moeaic.gov.tw/" />
+              </urls>
+              <y value="439.28" />
+              <z value="11" />
+              <x value="252.82" />
+              <height value="10.91" />
+            </contentProperty>
+          </links>
+          <pdfFileSize value="384600" />
+          <id value="41" />
+          <thumbFormat value="png" />
+        </page>
+        <page>
+          <contentWidth value="481.72" />
+          <pdfFileSize value="304913" />
+          <id value="42" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="0" />
+          <pdfFileSize value="5140" />
+          <id value="43" />
+          <thumbFormat value="png" />
+          <textLayer value="true" />
+        </page>
+        <page>
+          <contentWidth value="516.32" />
+          <links>
+            <contentProperty>
+              <width value="76.31" />
+              <urls>
+                <url value="tel:+886-6-2982810" />
+              </urls>
+              <y value="421.82" />
+              <z value="11" />
+              <x value="227.51" />
+              <height value="14.05" />
+            </contentProperty>
+            <contentProperty>
+              <width value="76.31" />
+              <urls>
+                <url value="tel:+886-6-2982835" />
+              </urls>
+              <y value="438.1" />
+              <z value="11" />
+              <x value="227.51" />
+              <height value="14.05" />
+            </contentProperty>
+            <contentProperty>
+              <width value="110.7" />
+              <urls>
+                <url value="http://economic.tainan.gov.tw/" />
+              </urls>
+              <y value="454.37" />
+              <z value="11" />
+              <x value="193.19" />
+              <height value="14.05" />
+            </contentProperty>
+          </links>
+          <pdfFileSize value="589048" />
+          <id value="44" />
+          <thumbFormat value="png" />
+        </page>
+      </elements>
+    </pages>
+    <publicationName value="大臺南投資招商手冊" />
+    <pageTypeHelper value="RLRLRLRLRLRLRLRLRLRLRLRLRLRLRLRLRLRLRLRLRLRL" />
+    <searchIndex ext="search/searchtext.xml" />
+    <flipCorner value="true" />
+  </bookProperties>
+  <wrapProperties>
+    <dropShadowFilter>
+      <alpha value="0.247058823529412" />
+      <distance value="1" />
+      <blur value="2" />
+      <angle value="90" />
+    </dropShadowFilter>
+    <textSelectionColor value="#000000" />
+    <textSelectionOpacity value="0.196078431372549" />
+    <stripe>
+      <stripeArrowColor value="#000000" />
+      <stripeHeight>
+        <percentValue value="100" />
+      </stripeHeight>
+      <stripeArrowOpacity value="0.584313725490196" />
+      <stripeOpacityHover value="0.705882352941176" />
+      <stripeColor value="#FFFFFF" />
+    </stripe>
+    <projectType value="catalog" />
+    <bevelFilter>
+      <enabled value="false" />
+      <distance value="1" />
+      <blur value="0" />
+    </bevelFilter>
+    <bookSize>
+      <percentValue value="95" />
+    </bookSize>
+    <linkRolloverColor value="#3FC7FF" />
+    <linkRolloverOpacity value="0.470588235294118" />
+    <bookProportions>
+      <width>
+        <pixelValue value="595" />
+      </width>
+      <height>
+        <pixelValue value="841" />
+      </height>
+    </bookProportions>
+  </wrapProperties>
+  <tableOfContent>
+    <tocData>
+      <pageNumber value="-1" />
+    </tocData>
+  </tableOfContent>
+  <pdfFileProperties>
+    <fileURL value="downloads/publication.pdf" />
+    <fileSize value="11164004" />
+  </pdfFileProperties>
+</Properties>
