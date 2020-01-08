@@ -1,0 +1,1 @@
+﻿positionForPages[39]={page:39,positions:[{word:"37",left:0.929803,top:0.938646,width:0.022578,height:0.020354},{word:"結合公私資源",left:0.952836,top:0.101272,width:0.016838,height:0.071273},{word:"邁向國際",left:0.952800,top:0.190358,width:0.016825,height:0.047517}]};
